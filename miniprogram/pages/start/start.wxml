@@ -1,0 +1,11 @@
+<!--start.wxml-->
+<image class="start"></image>
+<text id="text">新的一天新的开始~</text>
+<button class="btn1" bindtap="getDataFromOneNet">
+查看宿舍环境状态</button>
+<button class="btn2" bindtap="validate">
+今日菜谱</button>
+<button class="btn3" bindtap="toHome">
+查看天气</button>
+<button class="btn4" bindtap="transport">
+今天要去哪？</button>

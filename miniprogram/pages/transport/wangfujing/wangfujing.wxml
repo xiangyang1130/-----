@@ -1,0 +1,30 @@
+<view class="sectionTitle "> 王府井 </view>
+<view class="section"> 地铁路线 </view>
+
+
+<view>地铁昌平线(昌平西山口--西二旗)</view>
+<view>沙河 B1口(北口) 上车</view>
+<view>4站</view>
+<view>西二旗 下车</view>
+<view>同站换乘</view>
+
+<view>地铁13号线(东直门--西直门)</view>
+<view>西二旗 上车</view>
+<view>5站</view>
+<view>西直门 下车</view>
+
+<view>步行228米,到达西直门 </view>
+
+<view>地铁2号线外环(西直门--西直门)</view>
+<view>西直门 上车</view>
+<view>3站</view>
+<view>复兴门 下车</view>
+<view>同站换乘</view>
+
+<view>地铁1号线(苹果园--四惠东)</view>
+<view>复兴门 上车</view>
+<view>4站</view>
+<view>王府井 下车</view>
+<image style="width: 300px; height: 200px; margin:10px;" mode="scaleToFill" src="{{imageSrc}}"></image>
+<button class="btn12" bindtap="chi">
+王府井吃货指南</button>

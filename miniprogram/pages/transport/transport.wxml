@@ -1,0 +1,12 @@
+<button class="btn5" bindtap="xidan">
+西单</button>
+<button class="btn6" bindtap="wangfujing">
+王府井</button>
+<button class="btn7" bindtap="tiananmen">
+天安门</button>
+<button class="btn8" bindtap="wukesong">
+五棵松</button>
+<button class="btn9" bindtap="aolinpike">
+奥林匹克公园</button>
+<button class="btn10" bindtap="benbu">
+我要回本部</button>

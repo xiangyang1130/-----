@@ -1,0 +1,7 @@
+<button class="btnj" bindtap="validate1">
+就餐</button>
+<button class="btnx" bindtap="validate2">
+小食</button>
+<image style="width: 400px; height: 700px; margin:0px 0px 0px 0px;"mode="aspectFill" src="{{imageSrc}}"></image>
+
+<text id="text1">晚餐不要吃太饱，不要吃得太油腻，清淡一点最好；晚餐半小时以后可适当散散步</text>

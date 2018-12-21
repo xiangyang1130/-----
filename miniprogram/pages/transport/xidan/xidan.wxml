@@ -1,0 +1,40 @@
+<view class="sectionTitle "> 西单 </view>
+<view class="section"> 地铁路线 </view>
+
+<view> 地铁昌平线(昌平西山口--西二旗)</view>
+
+<view>沙河 B1口(北口) 上车</view>
+
+<view>4站</view>
+
+<view>   </view>
+
+<view>西二旗 下车</view>
+
+<view>同站换乘</view>
+
+
+<view>地铁13号线(东直门--西直门)</view>
+
+<view>西二旗 上车</view>
+
+<view>5站</view>
+<view>   </view>
+
+<view>西直门 下车</view>
+
+
+<view>步行228米,到达西直门</view> 
+
+
+<view>地铁4号线大兴线(安河桥北--天宫院)</view>
+
+<view>西直门 上车</view>
+
+<view>5站</view>
+<view>   </view>
+
+<view>西单 下车</view>
+<image style="width: 300px; height: 200px; margin:10px;" mode="scaleToFill" src="{{imageSrc}}"></image>
+<button class="btn11" bindtap="xidan1">
+西单剁手攻略</button>

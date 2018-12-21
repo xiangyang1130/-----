@@ -1,0 +1,7 @@
+<button class="btnj" bindtap="validate1">
+就餐</button>
+<image style="width: 400px; height: 700px; margin:0px;"mode=" aspectFill" src="{{imageSrc}}"></image>
+
+
+
+<text id="text1">高效的早餐可以提高我们的思维能力使我们一整天都拥有一个良好的精神状态</text>

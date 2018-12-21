@@ -1,0 +1,10 @@
+ <import src="temp/temp.wxml" />
+<view class="container">
+    <view class='shop-foods'>
+      </view>
+      <block wx:for="{{shops}}">
+        <view catchtap='goshop' data-id="{{index}}">
+          <template is="itemp" data="{{...item}}" />
+        </view>
+      </block>
+    </view>

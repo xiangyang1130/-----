@@ -1,0 +1,13 @@
+
+<text id="text1">今日菜单</text>
+<button class="btn1" bindtap="validate1">
+早餐</button>
+
+<button class="btn2" bindtap="validate2">
+午餐</button>
+
+<button class="btn3" bindtap="validate3">
+晚餐</button>
+
+
+<view>{{time}}</view>

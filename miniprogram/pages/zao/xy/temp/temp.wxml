@@ -1,0 +1,13 @@
+<template name="itemp">
+  <view class='s-b' >
+    <view class='shops-l'>
+      <image src="{{img}}"></image>
+    </view>
+    <view class='shops-r'>
+      <view class='shops-r-top'> 
+        <text class='shops-r-title'>{{title}}</text> 
+        <view>人均<text style='color:red'>{{count}}</text>元</view>
+      </view>
+    </view>
+  </view>
+</template> 

@@ -1,0 +1,21 @@
+.sectionTitle{
+    margin-bottom: 50rpx;
+    font-size: 25px;
+    color:blue;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    }
+
+.section{
+    margin-bottom: 20rpx;
+    margin-top: 20rpx;
+    color:deeppink;
+}
+.btn12{
+  height: 88rpx;
+  top: 40%;
+  width: 60%;
+  color: white;
+  background-color: #fc741a;
+  }

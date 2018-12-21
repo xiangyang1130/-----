@@ -1,0 +1,10 @@
+{
+  "pages/transport/transport": [
+    "pages/transport/xidan/xidan",
+    "pages/transport/wangfujing/wangfujing",
+    "pages/transport/tiananmen/tiananmen",
+    "pages/transport/wukesong/wukesong",
+    "pages/transport/aolinpike/aolinpike",
+    "pages/transport/benbu/benbu"
+  ]
+}

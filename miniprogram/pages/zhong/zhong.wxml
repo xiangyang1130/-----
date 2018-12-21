@@ -1,0 +1,7 @@
+<button class="btnj" bindtap="validate1">
+就餐</button>
+<button class="btnx" bindtap="validate2">
+小食</button>
+<image style="width: 400px; height: 700px; margin:0px;"mode=" aspectFill" src="{{imageSrc}}"></image>
+
+<text id="text1">营养午餐的食物种类多,集体进餐,有利于矫正学生目前普遍存在的偏食和挑食的行为和习惯</text>

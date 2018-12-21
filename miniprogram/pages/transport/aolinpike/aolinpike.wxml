@@ -1,0 +1,18 @@
+<view class="sectionTitle "> 奥林匹克公园 </view>
+<view class="section"> 地铁路线 </view>
+
+<view>地铁昌平线(昌平西山口--西二旗)</view>
+<view>沙河 B1口(北口) 上车</view>
+<view>2站</view>
+<view>朱辛庄 下车</view>
+<view>同站换乘</view>
+
+<view>地铁8号线(朱辛庄--南锣鼓巷)</view>
+<view>朱辛庄 上车</view>
+<view>10站</view>
+<view>奥林匹克公园 A1口 下车</view>
+
+<view>步行178米,到达目的地 </view>
+<image style="width: 300px; height: 200px; margin:10px;" mode="scaleToFill" src="{{imageSrc}}"></image>
+<button class="btn15" bindtap="jing">
+公园夜景</button>

@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi",
+    "pages/baidu/baidu",
+    "pages/transport/transport",
+    "pages/transport/xidan/xidan",
+    "pages/transport/wangfujing/wangfujing",
+    "pages/transport/tiananmen/tiananmen",
+    "pages/transport/wukesong/wukesong",
+    "pages/transport/aolinpike/aolinpike",
+    "pages/transport/benbu/benbu",
+    "pages/transport/xidan/xidan1/xidan1",
+    "pages/transport/wangfujing/chi/chi",
+    "pages/transport/tiananmen/zhishi/zhishi",
+    "pages/transport/wukesong/dong/dong",
+    "pages/transport/aolinpike/jing/jing",
+    "pages/transport/benbu/bupt/bupt",
+    "pages/zaozhongwan/zaozhongwan",
+    "pages/zao/zao",
+    "pages/zhong/zhong",
+    "pages/wan/wan",
+    "pages/zhong/xy/xy",
+    "pages/zhong/xs/xs",
+    "pages/zhong/jg/jg",
+    "pages/zao/xy/xy",
+    "pages/zao/jg/jg",
+    "pages/wan/xy/xy",
+    "pages/wan/jg/jg",
+    "pages/zao/shops/shops",
+    "pages/zao/shops 1/shops",
+    "pages/wan/shops/shops",
+    "pages/wan/shops 1/shops",
+    "pages/wan/shops 2/shops",
+    "pages/zhong/shops/shops",
+    "pages/zhong/shops 1/shops",
+    "pages/zhong/shops 3/shops"
+  ],
+
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "对，就你了",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+   
+  "debug": true
+}
+
+

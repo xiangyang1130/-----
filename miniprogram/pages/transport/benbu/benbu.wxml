@@ -1,0 +1,24 @@
+<view class="sectionTitle "> 北京邮电大学本部 </view>
+<view class="section"> 地铁路线 </view>
+<view>地铁昌平线(昌平西山口--西二旗)</view>
+<view>沙河 B1口(北口) 上车</view>
+<view>4站</view>
+<view>西二旗 下车</view>
+<view>同站换乘</view>
+
+<view>地铁13号线(东直门--西直门)</view>
+<view>西二旗 上车</view>
+<view>4站</view>
+<view>大钟寺 A口 下车</view>
+
+<view>步行372米,到达地铁大钟寺站 </view>
+
+<view>运通101快线(蓝龙家园--广顺南大街北口)</view>
+<view>地铁大钟寺站 上车</view>
+<view>1站</view>
+<view>蓟门桥东 下车</view>
+
+<view>步行1163米,到达目的地 </view>
+<image style="width:300px; height:250px; margin:10px;" mode="scaleToFill" src="{{imageSrc}}"></image>
+<button class="btn16" bindtap="bupt">
+说，爱不爱北邮</button>
